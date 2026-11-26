@@ -1,5 +1,5 @@
 // "The World on Wednesday" — entry program for make.fun's
-// "Sum up 25 November's world news in one image" bounty.
+// "Sum up 25 November's world news in one image" bounty ($100 in USDC).
 //
 // The entry is one picture: a broadsheet front page that sums up the world
 // news of Wednesday 25 November 2026. The composed image ships in this
